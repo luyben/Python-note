@@ -1,0 +1,22 @@
+3-2 Local and global variables
+
+  Def fun1():
+  Global num
+
+3-3 simpleGUI
+
+  Porgram structure
+    Global (state)
+    Helper function
+    Classes 
+    Define event handler
+    Create a frame
+    Register event handlers
+    Start frame & timer
+
+
+4-3 programming tips
+1. local and global varianle
+2. return something 
+3. comment and print as much as you can
+4 code style
