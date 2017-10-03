@@ -16,7 +16,8 @@
 
 
 4-3 programming tips
-1. local and global varianle
-2. return something 
-3. comment and print as much as you can
-4 code style
+
+  1. local and global variable
+  2. never forget to return something 
+  3. comment and print as much as you can
+  4. code style
